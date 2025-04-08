@@ -1,6 +1,6 @@
 Hi, I’m Sara
 
-Welcome to my GitHub profile! I'm a creative and dedicated web enthusiast with hands-on experience in building websites using HTML, WordPress, Canva, and Wix. I enjoy creating visually appealing and user-friendly sites, and I'm always exploring new design ideas and tools to improve my work.
+Welcome to my GitHub profile! I'm a creative and dedicated web enthusiast with hands-on experience in building websites using JavaScript, HTML, WordPress, Canva, and Wix. I enjoy creating visually appealing and user-friendly sites, and I'm always exploring new design ideas and tools to improve my work.
 
 About Me
 - 🎓 Current Focus: Learning and expanding my web development skills.
